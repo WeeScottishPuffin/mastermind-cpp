@@ -14,8 +14,6 @@ mastermind-cpp/
 			visualiser.cpp
 			visualiser.h
 		main.cpp
-	tests/
-		test_colours.cpp
 	readme.md
 	build.sh
 ```
