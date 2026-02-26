@@ -20,4 +20,4 @@ mastermind-cpp/
 
 ## Build instructions
 
-Run `./build.sh`, this will create a folder `bin` with the compiled program.
+Run `./build.sh`, this will create a folder `bin` with the compiled program using G++. Otherwise manually compile the files in `src/` and `src/includes/`
